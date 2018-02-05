@@ -7,7 +7,7 @@ Documentation for the course Web App from Scratch.
 ## Assignments week 1
 
 ### The Pros and Cons of using JavaScript libraries
-In this course we are going to develop a singe page web app with native JavaScript. So no use of jQuery, React or other libraries and/or frameworks. We have to learn the actual underlying technologies, before learning abstractions. I have listed some pros and cons of using JavaScript libraries;
+In this course we are going to develop a singe page web app with native JavaScript. So no use of jQuery, React or other libraries and/or frameworks. Learn the actual underlying technologies, before learning abstractions. I have listed some pros and cons of using JavaScript libraries;
 
 #### Pros
 * Frameworks can provide you with a stable code base and a good set of features to begin with (but now we are going to learn those base in native JavaScript). [1]
@@ -23,18 +23,25 @@ In this course we are going to develop a singe page web app with native JavaScri
 * Frameworks need to work for masses. Almost every product has something unique about it. And eventually there will at least be one such case that doesn't fit into the approach suggested by the framework. [3]
 
 
+
 ### The Pros and Cons of a single web app page
-We are going to develop client side application.
-In dit vak gaan we een single page web app ontwikkelen. Dit houdt in dat de gehele applicatie client side wordt afgehandeld (in de browser). Benoem voor- en nadelen van deze manier van applicaties ontwikkelen. Onderbouw je argumenten met online resources. Documenteer je bevindingen (met bronverwijzingen) in de README.md van de repository van dit vak.
+A single-page application is a web application that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from a server.[4] This means that our website will run client side, the web browser of the user. Below some pros and cons about this way of building an application.
 
 #### Pros
-
+* Only the elements that were changed will be reloaded. This is good for the server, not too many things are loaded.
+* Clear line between Front-end and Back-end. [5]
 
 #### Cons
+* Het traditionele internetverkeer is helemaal afgestemd op de multi page variant. Dat zie je onder andere terugkomen bij de zoekmachines: deze gaan nog uit van de traditionele herladende pagina’s en zo crawlen zij dan ook voornamelijk de door hun bezochte websites. Van Google is inmiddels bekend dat ze redelijk goed kunnen omgaan met SPA's. Mits de SPA goed is opgezet, en alle links netjes gebruik maken van een eigen URL, wordt je website gewoon gespiderd. [5]
+* Omdat een SPA, in tegenstelling tot volledig herladende pagina’s, continue ‘open’ blijft staan, moet je als ontwikkelaar plots ook weer gaan letten op geheugengebruik. Het geheugen kan vollopen, want dit wordt niet bij elke nieuwe pagina weer geleegd. [5]
+https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/
 
 ***
 
 ## Resources
-(https://www.noupe.com/development/javascript-frameworks-94897.html)[1]
-(https://learntocodewith.me/posts/javascript-libraries-frameworks/)[2]
-(https://www.quora.com/What-are-the-pros-and-cons-of-JavaScript-frameworks)[3]
+[https://www.noupe.com/development/javascript-frameworks-94897.html](1)
+[https://learntocodewith.me/posts/javascript-libraries-frameworks/](2)
+[https://www.quora.com/What-are-the-pros-and-cons-of-JavaScript-frameworks](3)
+[https://en.wikipedia.org/wiki/Single-page_application](4)
+[https://www.oberon.nl/whitepapers/single-page-applications](5)
+[https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/](6)
