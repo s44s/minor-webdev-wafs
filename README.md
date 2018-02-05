@@ -39,9 +39,9 @@ https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/
 ***
 
 ## Resources
-[https://www.noupe.com/development/javascript-frameworks-94897.html](1)
-[https://learntocodewith.me/posts/javascript-libraries-frameworks/](2)
-[https://www.quora.com/What-are-the-pros-and-cons-of-JavaScript-frameworks](3)
-[https://en.wikipedia.org/wiki/Single-page_application](4)
-[https://www.oberon.nl/whitepapers/single-page-applications](5)
-[https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/](6)
+[1](https://www.noupe.com/development/javascript-frameworks-94897.html)
+[2](https://learntocodewith.me/posts/javascript-libraries-frameworks/)
+[3](https://www.quora.com/What-are-the-pros-and-cons-of-JavaScript-frameworks)
+[4](https://en.wikipedia.org/wiki/Single-page_application)
+[5](https://www.oberon.nl/whitepapers/single-page-applications)
+[6](https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/)
