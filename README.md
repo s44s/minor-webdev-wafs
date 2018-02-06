@@ -34,7 +34,7 @@ A single-page application is a web application that interacts with the user by d
 #### Cons
 * Het traditionele internetverkeer is helemaal afgestemd op de multi page variant. Dat zie je onder andere terugkomen bij de zoekmachines: deze gaan nog uit van de traditionele herladende pagina’s en zo crawlen zij dan ook voornamelijk de door hun bezochte websites. Van Google is inmiddels bekend dat ze redelijk goed kunnen omgaan met SPA's. Mits de SPA goed is opgezet, en alle links netjes gebruik maken van een eigen URL, wordt je website gewoon gespiderd. [5]
 * Omdat een SPA, in tegenstelling tot volledig herladende pagina’s, continue ‘open’ blijft staan, moet je als ontwikkelaar plots ook weer gaan letten op geheugengebruik. Het geheugen kan vollopen, want dit wordt niet bij elke nieuwe pagina weer geleegd. [5]
-https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/
+* https://www.uxpin.com/studio/blog/single-page-vs-multi-page-ui-design-pros-cons/
 
 ***
 
